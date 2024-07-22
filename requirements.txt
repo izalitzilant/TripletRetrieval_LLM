@@ -4,3 +4,6 @@ torch==2.2.0
 pydantic
 langchain
 PyPDF2
+chromadb
+neo4j
+langchain-community
